@@ -1,0 +1,407 @@
+[
+  {
+    "name": "NYT Small Business",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml",
+    "category": "Business"
+  },
+  {
+    "name": "NYT Economy",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml",
+    "category": "Economy"
+  },
+  {
+    "name": "NYT Dealbook",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Dealbook.xml",
+    "category": "Business"
+  },
+  {
+    "name": "NYT Media & Advertising",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml",
+    "category": "Business"
+  },
+  {
+    "name": "NYT Technology",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "category": "Technology"
+  },
+  {
+    "name": "NYT Personal Tech",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml",
+    "category": "Technology"
+  },
+  {
+    "name": "NYT Politics",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+    "category": "Politics"
+  },
+  {
+    "name": "NYT US",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
+    "category": "News"
+  },
+  {
+    "name": "NYT Africa",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml",
+    "category": "World"
+  },
+  {
+    "name": "NYT Americas",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml",
+    "category": "World"
+  },
+  {
+    "name": "NYT Asia Pacific",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml",
+    "category": "World"
+  },
+  {
+    "name": "NYT Europe",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml",
+    "category": "World"
+  },
+  {
+    "name": "NYT Middle East",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml",
+    "category": "World"
+  },
+  {
+    "name": "Antara Terkini",
+    "url": "https://www.antaranews.com/rss/terkini.xml",
+    "category": "News"
+  },
+  {
+    "name": "Antara Ekonomi",
+    "url": "https://www.antaranews.com/rss/ekonomi.xml",
+    "category": "Economy"
+  },
+  {
+    "name": "Antara Olahraga",
+    "url": "https://www.antaranews.com/rss/olahraga.xml",
+    "category": "Sports"
+  },
+  {
+    "name": "Antara Sports",
+    "url": "https://www.antaranews.com/rss/sports.xml",
+    "category": "Sports"
+  },
+  {
+    "name": "Antara Teknologi",
+    "url": "https://www.antaranews.com/rss/teknologi.xml",
+    "category": "Technology"
+  },
+  {
+    "name": "Antara Ekonomi Finansial",
+    "url": "https://www.antaranews.com/rss/ekonomi-finansial.xml",
+    "category": "Economy"
+  },
+  {
+    "name": "Antara Top News",
+    "url": "https://www.antaranews.com/rss/top-news.xml",
+    "category": "News"
+  },
+  {
+    "name": "Antara Video",
+    "url": "https://www.antaranews.com/rss/video.xml",
+    "category": "Multimedia"
+  },
+  {
+    "name": "Antara Photo",
+    "url": "https://www.antaranews.com/rss/photo.xml",
+    "category": "Multimedia"
+  },
+  {
+    "name": "Antara Politik",
+    "url": "https://www.antaranews.com/rss/politik.xml",
+    "category": "Politics"
+  },
+  {
+    "name": "Antara Tekno",
+    "url": "https://www.antaranews.com/rss/tekno.xml",
+    "category": "Technology"
+  },
+  {
+    "name": "Antara Rilis Pers",
+    "url": "https://www.antaranews.com/rss/rilis-pers.xml",
+    "category": "News"
+  },
+  {
+    "name": "Sky News Politics",
+    "url": "https://feeds.skynews.com/feeds/rss/politics.xml",
+    "category": "Politics"
+  },
+  {
+    "name": "Sky News World",
+    "url": "https://feeds.skynews.com/feeds/rss/world.xml",
+    "category": "World"
+  },
+  {
+    "name": "Sky News Technology",
+    "url": "https://feeds.skynews.com/feeds/rss/technology.xml",
+    "category": "Technology"
+  },
+  {
+    "name": "Sky News Strange",
+    "url": "https://feeds.skynews.com/feeds/rss/strange.xml",
+    "category": "General"
+  },
+  {
+    "name": "Sky News UK",
+    "url": "https://feeds.skynews.com/feeds/rss/uk.xml",
+    "category": "News"
+  },
+  {
+    "name": "Sky News US",
+    "url": "https://feeds.skynews.com/feeds/rss/us.xml",
+    "category": "News"
+  },
+  {
+    "name": "CBS News Main",
+    "url": "https://www.cbsnews.com/latest/rss/main",
+    "category": "News"
+  },
+  {
+    "name": "CBS News US",
+    "url": "https://www.cbsnews.com/latest/rss/us",
+    "category": "News"
+  },
+  {
+    "name": "CBS News Politics",
+    "url": "https://www.cbsnews.com/latest/rss/politics",
+    "category": "Politics"
+  },
+  {
+    "name": "CBS News World",
+    "url": "https://www.cbsnews.com/latest/rss/world",
+    "category": "World"
+  },
+  {
+    "name": "CBS News Health",
+    "url": "https://www.cbsnews.com/latest/rss/health",
+    "category": "Health"
+  },
+  {
+    "name": "CBS News MoneyWatch",
+    "url": "https://www.cbsnews.com/latest/rss/moneywatch",
+    "category": "Economy"
+  },
+  {
+    "name": "CBS News Science",
+    "url": "https://www.cbsnews.com/latest/rss/science",
+    "category": "Science"
+  },
+  {
+    "name": "CBS News Technology",
+    "url": "https://www.cbsnews.com/latest/rss/technology",
+    "category": "Technology"
+  },
+  {
+    "name": "CBS News Entertainment",
+    "url": "https://www.cbsnews.com/latest/rss/entertainment",
+    "category": "Entertainment"
+  },
+  {
+    "name": "CBS News Space",
+    "url": "https://www.cbsnews.com/latest/rss/space",
+    "category": "Science"
+  },
+  {
+    "name": "CBS News Investigates",
+    "url": "https://www.cbsnews.com/latest/rss/evening-news/cbs-news-investigates",
+    "category": "News"
+  },
+  {
+    "name": "CBS Mornings Clips",
+    "url": "https://www.cbsnews.com/latest/rss/cbs-mornings-clips",
+    "category": "News"
+  },
+  {
+    "name": "CBS Mornings Full Episodes",
+    "url": "https://www.cbsnews.com/latest/rss/cbs-mornings-cbs-mornings-plus-full-episodes",
+    "category": "News"
+  },
+  {
+    "name": "CBS Evening News",
+    "url": "https://www.cbsnews.com/latest/rss/evening-news",
+    "category": "News"
+  },
+  {
+    "name": "CBS Evening News Full Episodes",
+    "url": "https://www.cbsnews.com/latest/rss/cbs-evening-news-plus-full-episodes",
+    "category": "News"
+  },
+  {
+    "name": "CBS Evening News On The Road",
+    "url": "https://www.cbsnews.com/latest/rss/evening-news-on-the-road",
+    "category": "News"
+  },
+  {
+    "name": "CBS 60 Minutes",
+    "url": "https://www.cbsnews.com/latest/rss/60-minutes",
+    "category": "News"
+  },
+  {
+    "name": "CBS Sunday Morning",
+    "url": "https://www.cbsnews.com/latest/rss/sunday-morning",
+    "category": "News"
+  },
+  {
+    "name": "CBS Face The Nation",
+    "url": "https://www.cbsnews.com/latest/rss/face-the-nation",
+    "category": "Politics"
+  },
+  {
+    "name": "CBS 48 Hours",
+    "url": "https://www.cbsnews.com/latest/rss/48-hours",
+    "category": "News"
+  },
+  {
+    "name": "CBS Reports Custom",
+    "url": "https://www.cbsnews.com/latest/rss/cbs-reports-custom",
+    "category": "News"
+  },
+  {
+    "name": "CBS News Mornings Clips",
+    "url": "https://www.cbsnews.com/latest/rss/cbs-news-mornings-clips",
+    "category": "News"
+  },
+  {
+    "name": "CBS America Decides Segments",
+    "url": "https://www.cbsnews.com/latest/rss/america-decides-segments",
+    "category": "Politics"
+  },
+  {
+    "name": "CBS Daily Report Clips",
+    "url": "https://www.cbsnews.com/latest/rss/daily-report-clips",
+    "category": "News"
+  },
+  {
+    "name": "CBS The Takeout Full Episodes",
+    "url": "https://www.cbsnews.com/latest/rss/the-takeout-full-episodes",
+    "category": "Politics"
+  },
+  {
+    "name": "CBS Uplift Full Episodes",
+    "url": "https://www.cbsnews.com/latest/rss/uplift-full-episodes",
+    "category": "General"
+  },
+  {
+    "name": "CBS Eye on America Full Episodes",
+    "url": "https://www.cbsnews.com/latest/rss/eye-on-america-full-episodes",
+    "category": "News"
+  },
+  {
+    "name": "CBS The Dish Full Episodes",
+    "url": "https://www.cbsnews.com/latest/rss/the-dish-full-episodes",
+    "category": "General"
+  },
+  {
+    "name": "Coconuts Jakarta",
+    "url": "http://coconuts.co/jakarta/feed/",
+    "category": "News"
+  },
+  {
+    "name": "Detik News",
+    "url": "https://news.detik.com/berita/rss",
+    "category": "News"
+  },
+  {
+    "name": "Detik Finance",
+    "url": "https://finance.detik.com/rss",
+    "category": "Economy"
+  },
+  {
+    "name": "Kompas Social",
+    "url": "https://rss.kompas.com/api/feed/social?apikey=bc58c81819dff4b8d5c53540a2fc7ffd83e6314a",
+    "category": "News"
+  },
+  {
+    "name": "Kontan Keuangan",
+    "url": "https://rss.kontan.co.id/news/keuangan",
+    "category": "Economy"
+  },
+  {
+    "name": "Kontan Nasional",
+    "url": "https://rss.kontan.co.id/news/nasional",
+    "category": "News"
+  },
+  {
+    "name": "Suara Bisnis",
+    "url": "https://www.suara.com/rss/bisnis",
+    "category": "Business"
+  },
+  {
+    "name": "Suara News",
+    "url": "https://www.suara.com/rss/news",
+    "category": "News"
+  },
+  {
+    "name": "Vice Indonesia",
+    "url": "https://www.vice.com/id_id/rss",
+    "category": "News"
+  },
+  {
+    "name": "Liputan6 News",
+    "url": "https://feed.liputan6.com/rss/news",
+    "category": "News"
+  },
+  {
+    "name": "Tempo Nasional",
+    "url": "http://rss.tempo.co/nasional",
+    "category": "News"
+  },
+  {
+    "name": "Tempo Bisnis",
+    "url": "http://rss.tempo.co/bisnis",
+    "category": "Business"
+  },
+  {
+    "name": "CNN Indonesia Ekonomi",
+    "url": "https://www.cnnindonesia.com/ekonomi/rss",
+    "category": "Economy"
+  },
+  {
+    "name": "CNN Indonesia Nasional",
+    "url": "https://www.cnnindonesia.com/nasional/rss",
+    "category": "News"
+  },
+  {
+    "name": "CNBC Indonesia News",
+    "url": "https://www.cnbcindonesia.com/news/rss",
+    "category": "News"
+  },
+  {
+    "name": "CNBC Indonesia Market",
+    "url": "https://www.cnbcindonesia.com/market/rss/",
+    "category": "Economy"
+  },
+  {
+    "name": "Republika",
+    "url": "https://www.republika.co.id/rss",
+    "category": "News"
+  },
+  {
+    "name": "Media Indonesia",
+    "url": "https://mediaindonesia.com/feed",
+    "category": "News"
+  },
+  {
+    "name": "Jawa Pos Nasional",
+    "url": "https://www.jawapos.com/nasional/rss",
+    "category": "News"
+  },
+  {
+    "name": "Jawa Pos Ekonomi",
+    "url": "https://www.jawapos.com/ekonomi/rss",
+    "category": "Economy"
+  },
+  {
+    "name": "Kumparan",
+    "url": "https://lapi.kumparan.com/v2.0/rss/",
+    "category": "News"
+  },
+  {
+    "name": "Tirto",
+    "url": "https://tirto.id/sitemap/r/google-discover",
+    "category": "News"
+  }
+]

@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Asetpedia - AI Financial Analysis Platform</title>
+    
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Custom Tailwind Config -->
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              'terminal': {
+                'bg': '#0a0a0a',
+                'surface': '#1a1a1a',
+                'border': '#2a2a2a',
+                'text': '#e5e5e5',
+                'accent': '#00ff88',
+                'warning': '#ffaa00',
+                'error': '#ff4444',
+                'success': '#00ff88',
+                'info': '#00aaff',
+                'muted': '#666666'
+              },
+              'accent': {
+                50: '#f0fff4',
+                100: '#dcfce7',
+                200: '#bbf7d0',
+                300: '#86efac',
+                400: '#4ade80',
+                500: '#00ff88',
+                600: '#00d670',
+                700: '#00b85c',
+                800: '#009648',
+                900: '#007a3a'
+              },
+              'glass': {
+                'light': 'rgba(255, 255, 255, 0.1)',
+                'dark': 'rgba(0, 0, 0, 0.3)'
+              }
+            },
+            fontFamily: {
+              'mono': ['JetBrains Mono', 'Consolas', 'Monaco', 'Courier New', 'monospace'],
+              'heading': ['JetBrains Mono', 'monospace'],
+            },
+            fontSize: {
+              'xs': ['0.75rem', { lineHeight: '1rem', letterSpacing: '0.025em' }],
+              'sm': ['0.875rem', { lineHeight: '1.25rem', letterSpacing: '0.025em' }],
+              'base': ['1rem', { lineHeight: '1.5rem', letterSpacing: '0' }],
+              'lg': ['1.125rem', { lineHeight: '1.75rem', letterSpacing: '0' }],
+              'xl': ['1.25rem', { lineHeight: '1.75rem', letterSpacing: '-0.025em' }],
+              '2xl': ['1.5rem', { lineHeight: '2rem', letterSpacing: '-0.025em' }],
+              '3xl': ['1.875rem', { lineHeight: '2.25rem', letterSpacing: '-0.025em' }],
+              '4xl': ['2.25rem', { lineHeight: '2.5rem', letterSpacing: '-0.025em' }],
+              '5xl': ['3rem', { lineHeight: '1', letterSpacing: '-0.025em' }],
+            },
+            boxShadow: {
+              'glow': '0 0 20px rgba(0, 255, 136, 0.3)',
+              'glow-sm': '0 0 10px rgba(0, 255, 136, 0.2)',
+              'glow-lg': '0 0 40px rgba(0, 255, 136, 0.4)',
+              'terminal': '0 25px 50px -12px rgba(0, 0, 0, 0.25), 0 0 20px rgba(0, 255, 136, 0.1)',
+            },
+            animation: {
+              'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+              'shimmer': 'shimmer 2s linear infinite',
+              'glow': 'glow 2s ease-in-out infinite alternate',
+            },
+            backdropBlur: {
+              xs: '2px',
+            }
+          }
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
