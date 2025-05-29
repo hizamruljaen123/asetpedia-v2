@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { Activity, TrendingUp, BarChart3, Globe, Zap } from 'lucide-react';
 
 interface TerminalHeaderProps {
@@ -74,12 +75,16 @@ export const DashboardLayout: React.FC<DashboardLayoutProps> = ({ children }) =>
                   </p>
                 </div>
               </div>
-            </div>
-
-            <nav className="flex items-center gap-6">
-              <NavItem icon={BarChart3} label="Markets" active />
-              <NavItem icon={Globe} label="News" />
-              <NavItem icon={Zap} label="AI Analysis" />
+            </div>            <nav className="flex items-center gap-6">
+              <Link to="/">
+                <NavItem icon={BarChart3} label="Markets" active />
+              </Link>
+              <Link to="/news">
+                <NavItem icon={Globe} label="News" />
+              </Link>
+              <Link to="/tools">
+                <NavItem icon={Zap} label="Market Tools" />
+              </Link>
             </nav>
 
             <div className="flex items-center gap-3">
