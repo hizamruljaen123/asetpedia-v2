@@ -456,7 +456,7 @@ const ProfessionalNewsPage: React.FC<ProfessionalNewsPageProps> = ({ className =
             <div className="flex items-center gap-4">
               <div className="flex items-center gap-2">
                 <Globe className="w-6 h-6 text-terminal-accent" />
-                <h1 className="text-xl font-bold text-terminal-text">Berita Profesional</h1>
+                <h1 className="text-xl font-bold text-terminal-text">Asetpedia News <sup>(AI Powered)</sup></h1>
               </div>
               <div className="flex items-center gap-2 text-sm text-terminal-text/70">
                 <Clock className="w-4 h-4" />
